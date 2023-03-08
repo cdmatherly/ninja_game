@@ -2,6 +2,8 @@ from classes.ninja import Ninja
 from classes.pirate import Pirate
 import random
 
+# This application was developed by Laith Nassar, Patrick Bagtas, Simon Buras, and Chase Matherly for the Coding Dojo Python Hackathon
+
 name = input("What is your name?\n")
 
 ninja = Ninja(f"{name}")
